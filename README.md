@@ -1,1 +1,1 @@
-# scabrumAlkaloid_inSourceFragment_QqQ
+A method for rapid detection of toxic glycoalkaloids in Solanum scabrum and nigrum berries using UHPLC with pathway-specified in-source fragmentation tandem mass spectrometry. This file provides some of the data analysis performed in this work. 
