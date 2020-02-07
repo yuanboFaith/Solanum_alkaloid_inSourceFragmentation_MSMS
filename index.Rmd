@@ -5,7 +5,7 @@ output: html_document
 
 <br>
 
-### Rapid detection of glycoalkaloids in ***S. scabrum*** and ***nigrum*** berries using UHPLC with pathway-specified in-source fragmentation MS/MS
+### Rapid detection of glycoalkaloids in ***Solanum. scabrum*** and ***S. nigrum*** berries using ultra-high performance liquid chromatography with pathway-specified in-source fragmentation tandem mass spectrometry
 
 <br>
 
