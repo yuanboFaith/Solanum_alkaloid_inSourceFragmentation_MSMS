@@ -1,6 +1,6 @@
 ## Rapid screening of glycoalkaloids in Solanum scabrum and S. nigrum berries using ultra-high-performance liquid chromatography with pathway-specified in-source fragmentation tandem mass spectrometry
 
-[***See original article.***](https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/abs/10.1002/rcm.8882) published in _Rapid Communications in Mass Spectrometry_.
+[***See original article***](https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/abs/10.1002/rcm.8882) published in _Rapid Communications in Mass Spectrometry_.
 
 ### Rationale
 The safe consumption of Solanum scabrum and S. nigrum berries (SNBs) depends on a reliable and rapid chemical screen for the testing of the fruit and/or final food and industrial products for the presence and level of toxic glycoalkaloids. Such a rapid and sensitive screen could also be used by those involved in food safety and forensics, industry, research labs and those in agriculture production, breeding and food processing. Significant variation in the content and composition of glycoalkaloids across SNBs has been reported. To facilitate high-throughput targeted analysis, this work overcame the slow scan speed of a traditional triple quadruple mass spectrometry (QqQ) method by development of a pseudo-MS3 method.
