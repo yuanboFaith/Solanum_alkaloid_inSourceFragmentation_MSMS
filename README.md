@@ -14,7 +14,7 @@ A compact method with only 15 MRM transitions were developed for high-throughput
 ### Conclusions
 The peudo-MS3 method allowed for high-throughput targeted analysis with compact MRM transitions to address a large number of glycoalkaloids with diverse structures. This method could serve to meet the most heavy-duty demand for rapid inspection of glycoalkaloids in SNBs. This method can be adopted and used by those involved in food safety and forensics, in developing food and industrial products and in genetics and breeding.
 
----
+<br>
 
 ## Script References
 
@@ -26,6 +26,8 @@ The R code has been developed with reference to [**R for Data Science (2e)**](ht
 
 - [**Data wrangling**](https://www.databrewer.co/R/data-wrangling) with the following packages:
 [**tidyr**](https://www.databrewer.co/R/data-wrangling/tidyr/introduction): transform (e.g., pivoting) the dataset into tidy structure; [**dplyr**](https://www.databrewer.co/R/data-wrangling/dplyr/0-introduction): the basic tools to work with data frames; [**stringr**](https://www.databrewer.co/R/data-wrangling/stringr/0-introduction): work with strings; [**regular expression**](https://www.databrewer.co/R/data-wrangling/regular-expression/0-introduction): search and match a string pattern; [**purrr**](https://www.databrewer.co/R/data-wrangling/purrr/introduction): functional programming (e.g., iterating functions across elements of columns); and [**tibble**](https://www.databrewer.co/R/data-wrangling/tibble/introduction): work with data frames in the modern tibble structure.
+
+<br>
 
 ## Follow me. Keep Updated with My Latest Research
 
