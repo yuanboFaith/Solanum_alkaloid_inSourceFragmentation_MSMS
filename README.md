@@ -1,4 +1,4 @@
-## Rapid screening of glycoalkaloids in Solanum scabrum and S. nigrum berries using ultra-high-performance liquid chromatography with pathway-specified in-source fragmentation tandem mass spectrometry
+## Rapid screening of glycoalkaloids in _Solanum scabrum_ and _S. nigrum_ berries using ultra-high-performance liquid chromatography with pathway-specified in-source fragmentation tandem mass spectrometry
 
 [***See original article***](https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/abs/10.1002/rcm.8882) published in _Rapid Communications in Mass Spectrometry_.
 
